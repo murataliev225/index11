@@ -1,0 +1,125 @@
+.div{
+    display: flex;
+}
+
+.div1{
+    width: 500px;
+    height: 200px;
+    background-color: orange;
+    border: 1px solid black;
+}
+
+.div2{
+    width: 500px;
+    height: 200px;
+    background-color: orange;
+    border: 1px solid black;
+    display: flex;
+    display: flex;
+    flex-direction: column;
+}
+
+.div3{
+    width: 500px;
+    height: 200px;
+    background-color: orange;
+    border: 1px solid black;
+}
+
+.yellow{
+    width: 250px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+.yellow1{
+    width: 250px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+.blue{
+    width: 498px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid black;
+}
+
+.bluecom{
+    width: 300px;
+    height: 450px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.bluecom1{
+    width: 900px;
+    height: 450px;
+    background-color: aqua;
+    border: 1px solid black;
+    display: flex;
+}
+
+.bluecom2{
+    width: 300px;
+    height: 450px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.display{
+    display: flex;
+}
+
+.pink{
+    width: 150px;
+    height: 450px;
+    background-color: darksalmon;
+    border: 1px solid black;
+    display: flex;
+}
+
+.pink1{
+    width: 600px;
+    height: 450px;
+    background-color: darksalmon;
+    border: 1px solid black;
+}
+
+.purple{
+    width: 250px;
+    height: 225px;
+    background-color: purple;
+    border: 1px solid black;
+}
+
+.purple1{
+    width: 350px;
+    height: 225px;
+    background-color: purple;
+    border: 1px solid black;
+    display: flex;
+}
+
+.red{
+    width: 115px;
+    height: 225px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+.reddark{
+    width: 300px;
+    height: 150px;
+    background-color: brown;
+    border: 1px solid black;
+}
+
+.orange{
+    width: 75px;
+    height: 450px;
+    background-color: orange;
+    border: 1px solid black;
+}
